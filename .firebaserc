@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "desafio3chat": {
+      "hosting": {
+        "app": [
+          "desafio3chat"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "desafio3chat"
+  }
+}
